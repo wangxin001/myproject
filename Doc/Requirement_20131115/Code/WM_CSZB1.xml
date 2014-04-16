@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>1</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>1</cursize>
+</head>
+<content>
+<cjbcode>WM_CSZB1</cjbcode>
+<cjbname>物美超市总部监测报表（一）</cjbname>
+<items>
+<item>
+<sitecode>U000978</sitecode>
+<sitename>物美超市总部</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

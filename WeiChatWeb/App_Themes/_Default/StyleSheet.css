@@ -1,0 +1,20 @@
+﻿.ItemCenter
+{
+    text-align: center;
+}
+.ItemLeft
+{
+    text-align: left;
+}
+.ItemRight
+{
+    text-align: right;
+}
+.ItemHidden
+{
+    display: none;
+}
+.MustInput
+{
+    color: Red;
+}

@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>87</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>87</cursize>
+</head>
+<items>
+<item>
+<code>E000002</code>
+<name><![CDATA[大白菜 新鲜中等  ]]></name>
+<catcode>L000002</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000003</code>
+<name><![CDATA[圆白菜 新鲜中等  ]]></name>
+<catcode>L000003</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000004</code>
+<name><![CDATA[黄瓜 新鲜中等  ]]></name>
+<catcode>L000004</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000005</code>
+<name><![CDATA[西红柿 新鲜中等  ]]></name>
+<catcode>L000005</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000006</code>
+<name><![CDATA[圆茄子 新鲜中等  ]]></name>
+<catcode>L000006</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000007</code>
+<name><![CDATA[青椒 新鲜中等  ]]></name>
+<catcode>L000007</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000008</code>
+<name><![CDATA[土豆 新鲜中等  ]]></name>
+<catcode>L000008</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000009</code>
+<name><![CDATA[菜花 新鲜中等  ]]></name>
+<catcode>L000009</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000010</code>
+<name><![CDATA[油菜 新鲜中等  ]]></name>
+<catcode>L000010</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000011</code>
+<name><![CDATA[芹菜 新鲜中等  ]]></name>
+<catcode>L000011</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000012</code>
+<name><![CDATA[白萝卜 新鲜中等  ]]></name>
+<catcode>L000012</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000013</code>
+<name><![CDATA[心里美萝卜 新鲜中等  ]]></name>
+<catcode>L000013</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000014</code>
+<name><![CDATA[胡萝卜 新鲜中等  ]]></name>
+<catcode>L000014</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000016</code>
+<name><![CDATA[菠菜 新鲜中等  ]]></name>
+<catcode>L000016</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000017</code>
+<name><![CDATA[小白菜 新鲜中等  ]]></name>
+<catcode>L000017</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000018</code>
+<name><![CDATA[莴笋 新鲜中等  ]]></name>
+<catcode>L000018</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000019</code>
+<name><![CDATA[豆角 新鲜中等  ]]></name>
+<catcode>L000019</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000020</code>
+<name><![CDATA[韭菜 新鲜中等  ]]></name>
+<catcode>L000020</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000021</code>
+<name><![CDATA[蒜苗 新鲜中等  ]]></name>
+<catcode>L000021</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000022</code>
+<name><![CDATA[生菜 新鲜中等  ]]></name>
+<catcode>L000022</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000023</code>
+<name><![CDATA[小辣椒 新鲜中等  ]]></name>
+<catcode>L000023</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000025</code>
+<name><![CDATA[苦瓜 新鲜中等  ]]></name>
+<catcode>L000025</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000026</code>
+<name><![CDATA[葱头 新鲜中等  ]]></name>
+<catcode>L000026</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000027</code>
+<name><![CDATA[绿豆芽 新鲜中等  ]]></name>
+<catcode>L000027</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000028</code>
+<name><![CDATA[黄豆芽 新鲜中等  ]]></name>
+<catcode>L000028</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000029</code>
+<name><![CDATA[大蒜 新鲜中等  ]]></name>
+<catcode>L000029</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000030</code>
+<name><![CDATA[大葱 新鲜中等  ]]></name>
+<catcode>L000030</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000031</code>
+<name><![CDATA[生姜 新鲜中等  ]]></name>
+<catcode>L000031</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000032</code>
+<name><![CDATA[油麦菜 新鲜中等  ]]></name>
+<catcode>L000032</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000666</code>
+<name><![CDATA[银耳 中等  ]]></name>
+<catcode>L000486</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000668</code>
+<name><![CDATA[干香菇 中等  ]]></name>
+<catcode>L000488</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000669</code>
+<name><![CDATA[干花菇 中等  ]]></name>
+<catcode>L000489</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000670</code>
+<name><![CDATA[鲜平菇 中等  ]]></name>
+<catcode>L000490</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000678</code>
+<name><![CDATA[菜心 中等  ]]></name>
+<catcode>L000495</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000679</code>
+<name><![CDATA[荷兰豆 中等  ]]></name>
+<catcode>L000496</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000680</code>
+<name><![CDATA[芥蓝 中等  ]]></name>
+<catcode>L000497</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000681</code>
+<name><![CDATA[山药 中等  ]]></name>
+<catcode>L000498</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000682</code>
+<name><![CDATA[香芹 中等  ]]></name>
+<catcode>L000499</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000683</code>
+<name><![CDATA[茭白 中等  ]]></name>
+<catcode>L000500</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000706</code>
+<name><![CDATA[平菇 中等  上庄乡科技推广站]]></name>
+<catcode>L000024</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000016</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000707</code>
+<name><![CDATA[双孢菇 中等  上庄乡科技推广站]]></name>
+<catcode>L000517</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000016</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000708</code>
+<name><![CDATA[香菇 中等  上庄乡科技推广站]]></name>
+<catcode>L000518</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000016</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000712</code>
+<name><![CDATA[香椿 中等  田庄]]></name>
+<catcode>L000524</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000020</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000728</code>
+<name><![CDATA[彩椒 中等  顺沿特种蔬菜基地]]></name>
+<catcode>L000538</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000024</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000729</code>
+<name><![CDATA[樱桃萝卜 中等  顺沿特种蔬菜基地]]></name>
+<catcode>L000539</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000024</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000730</code>
+<name><![CDATA[软化菊苣 中等  顺沿特种蔬菜基地]]></name>
+<catcode>L000540</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000024</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000732</code>
+<name><![CDATA[紫甘蓝 中等  顺沿特种蔬菜基地]]></name>
+<catcode>L000542</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000024</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001000</code>
+<name><![CDATA[蔬菜类   ]]></name>
+<catcode>L001000</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000015</code>
+<name><![CDATA[冬瓜 新鲜中等  ]]></name>
+<catcode>L000015</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000024</code>
+<name><![CDATA[平菇 新鲜中等  ]]></name>
+<catcode>L000024</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000667</code>
+<name><![CDATA[黑木耳 中等  ]]></name>
+<catcode>L000487</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000705</code>
+<name><![CDATA[茶树菇 中等  上庄乡科技推广站]]></name>
+<catcode>L000516</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000016</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001217</code>
+<name><![CDATA[鲜菜   ]]></name>
+<catcode>L001172</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001218</code>
+<name><![CDATA[鲜果   ]]></name>
+<catcode>L001173</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001053</code>
+<name><![CDATA[蛇豆 新鲜中等  ]]></name>
+<catcode>L001022</catcode>
+<brdcode></brdcode>
+<speccode>G000001</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001286</code>
+<name><![CDATA[土豆   ]]></name>
+<catcode>L000008</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001289</code>
+<name><![CDATA[圆白菜   ]]></name>
+<catcode>L000003</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001336</code>
+<name><![CDATA[菠菜   ]]></name>
+<catcode>L000016</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001337</code>
+<name><![CDATA[黄豆芽   ]]></name>
+<catcode>L000028</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001338</code>
+<name><![CDATA[洋葱   ]]></name>
+<catcode>L001199</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001339</code>
+<name><![CDATA[小白菜   ]]></name>
+<catcode>L000017</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001340</code>
+<name><![CDATA[黄瓜   ]]></name>
+<catcode>L000004</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001341</code>
+<name><![CDATA[白萝卜   ]]></name>
+<catcode>L000012</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001342</code>
+<name><![CDATA[心里美萝卜   ]]></name>
+<catcode>L000013</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001343</code>
+<name><![CDATA[豆角   ]]></name>
+<catcode>L000019</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001344</code>
+<name><![CDATA[蒜头   ]]></name>
+<catcode>L001196</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001353</code>
+<name><![CDATA[姜   ]]></name>
+<catcode>L001198</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001354</code>
+<name><![CDATA[大白菜   ]]></name>
+<catcode>L000002</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001355</code>
+<name><![CDATA[平菇   ]]></name>
+<catcode>L000024</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001356</code>
+<name><![CDATA[圆茄子   ]]></name>
+<catcode>L000006</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001357</code>
+<name><![CDATA[白菜花   ]]></name>
+<catcode>L001194</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001358</code>
+<name><![CDATA[胡萝卜   ]]></name>
+<catcode>L000014</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001359</code>
+<name><![CDATA[芹菜   ]]></name>
+<catcode>L000011</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001360</code>
+<name><![CDATA[油菜   ]]></name>
+<catcode>L000010</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001361</code>
+<name><![CDATA[韭菜   ]]></name>
+<catcode>L000020</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001362</code>
+<name><![CDATA[冬瓜   ]]></name>
+<catcode>L000015</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001363</code>
+<name><![CDATA[团生菜   ]]></name>
+<catcode>L001195</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001364</code>
+<name><![CDATA[绿豆芽   ]]></name>
+<catcode>L000027</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001345</code>
+<name><![CDATA[油麦菜   ]]></name>
+<catcode>L000032</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001346</code>
+<name><![CDATA[西红柿   ]]></name>
+<catcode>L000005</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001347</code>
+<name><![CDATA[青椒   ]]></name>
+<catcode>L000007</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001348</code>
+<name><![CDATA[莴笋   ]]></name>
+<catcode>L000018</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001349</code>
+<name><![CDATA[蒜苗   ]]></name>
+<catcode>L000021</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001350</code>
+<name><![CDATA[苦瓜   ]]></name>
+<catcode>L000025</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001351</code>
+<name><![CDATA[大葱   ]]></name>
+<catcode>L000030</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001352</code>
+<name><![CDATA[尖椒   ]]></name>
+<catcode>L001197</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001275</code>
+<name><![CDATA[豆角  绿龙 ]]></name>
+<catcode>L000019</catcode>
+<brdcode>P000107</brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+</items>
+</root>

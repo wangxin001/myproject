@@ -1,0 +1,141 @@
+﻿html, body
+{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    font-family: 微软雅黑, Arial, Courier New;
+    font-size: 13px;
+}
+
+.form
+{
+    width: 950px;
+    height: 100%;
+}
+
+.layout
+{
+    width: 950px;
+}
+
+.layout_top
+{
+    width: 950px;
+    height: 25px;
+    background: #FFFFEE;
+    text-align: right;
+}
+
+
+.layout_menu
+{
+    width: 250px;
+    height: 100%;
+    text-align: left;
+    vertical-align: top;
+}
+
+.layout_tree
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    overflow-x: auto;
+    overflow-y: auto;
+    background: #E0E0E0;
+    border-right: #848284 1px solid;
+    border-top: #848284 1px solid;
+    border-left: #848284 1px solid;
+    border-bottom: #848284 1px solid;
+}
+
+.layout_content
+{
+    width: 700px;
+    height: 100%;
+    background: #FFFFF6;
+    text-align: left;
+    vertical-align: top;
+}
+
+.divToolBar
+{
+    height: 30px;
+    text-align: right;
+    line-height: 30px;
+    float: right; 
+}
+
+.divToolBarCenter
+{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+}
+
+.divToolBarLeft
+{
+    width: 100%;
+    height: 30px;
+    text-align: left;
+}
+
+.divCurrentPosition
+{
+    height: 30px;
+    text-align: left;
+    font-weight: bold;
+    float: left;
+    vertical-align:middle;
+}
+.InfoContainer
+{
+    margin: 0 auto;
+    border: solid 1px #888888;
+    width: 950px;
+    text-align: center;
+}
+
+.InfoTitle
+{
+    width: 100%;
+    color: Red;
+    text-align: center;
+    font-size: 24pt;
+    font-family: 仿宋;
+}
+
+.InfoPublisher
+{
+    float: left;
+    width: 450px;
+    height: 50px;
+    text-align: right;
+    border: solid 1px #FFFFFF;
+}
+
+.InfoDate
+{
+    float: right;
+    width: 450px;
+    height: 50px;
+    text-align: left;
+    border: solid 1px #FFFFFF;
+}
+
+.InfoContent
+{
+    clear: both;
+    text-align: left;
+    line-height: 30px;
+    padding: 10px;
+}
+
+.noneDisplay
+{
+     display:none;
+}

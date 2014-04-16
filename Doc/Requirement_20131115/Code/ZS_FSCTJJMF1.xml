@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>1</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>1</cursize>
+</head>
+<content>
+<cjbcode>ZS_FSCTJJMF1</cjbcode>
+<cjbname>非市场调节的居民服务价格监测报表</cjbname>
+<items>
+<item>
+<sitecode>U000003</sitecode>
+<sitename>价格监测中心（代报）</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

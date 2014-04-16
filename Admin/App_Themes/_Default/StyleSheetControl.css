@@ -1,0 +1,22 @@
+﻿.TextBorder
+{
+    border: 1px solid #7f9db9;
+    font-size: 13px;
+}
+
+.TableInfo
+{
+    background: #7f9db9;
+    width: 100%;
+}
+
+.TableInfo tr
+{
+    height: 28px;
+}
+
+.TableInfo td
+{
+    background: #FFFFFF;
+    background: white;
+}

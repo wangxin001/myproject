@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>94</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>94</cursize>
+</head>
+<items>
+<item>
+<code>E000124</code>
+<name><![CDATA[粳米 散装  ]]></name>
+<catcode>L000048</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000125</code>
+<name><![CDATA[黄豆 散装  ]]></name>
+<catcode>L000050</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000131</code>
+<name><![CDATA[绿豆 散装  ]]></name>
+<catcode>L000051</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000132</code>
+<name><![CDATA[红小豆 散装  ]]></name>
+<catcode>L000052</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000133</code>
+<name><![CDATA[玉米面 散装  ]]></name>
+<catcode>L000055</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000134</code>
+<name><![CDATA[玉米渣 散装  ]]></name>
+<catcode>L000109</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000135</code>
+<name><![CDATA[小米 散装  ]]></name>
+<catcode>L000049</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000136</code>
+<name><![CDATA[江米 散装  ]]></name>
+<catcode>L000053</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000673</code>
+<name><![CDATA[红小豆 中等  ]]></name>
+<catcode>L000052</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000675</code>
+<name><![CDATA[干蚕豆 中等  ]]></name>
+<catcode>L000491</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000676</code>
+<name><![CDATA[糯玉米 中等  ]]></name>
+<catcode>L000492</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000739</code>
+<name><![CDATA[谷子 中等  旧县镇]]></name>
+<catcode>L000546</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000030</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000740</code>
+<name><![CDATA[谷子 中等  张山营镇]]></name>
+<catcode>L000546</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000031</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000741</code>
+<name><![CDATA[谷子 中等  大庄科乡]]></name>
+<catcode>L000546</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode>C000027</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001002</code>
+<name><![CDATA[粮食类   ]]></name>
+<catcode>L001002</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001008</code>
+<name><![CDATA[标准粉 25公斤袋装 古船 ]]></name>
+<catcode>L000047</catcode>
+<brdcode>P000001</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000046</code>
+<name><![CDATA[富强粉 25公斤袋装 古船 ]]></name>
+<catcode>L000046</catcode>
+<brdcode>P000001</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000047</code>
+<name><![CDATA[富强粉 5公斤袋装 古船 ]]></name>
+<catcode>L000046</catcode>
+<brdcode>P000001</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000048</code>
+<name><![CDATA[富强粉 25公斤袋装 五得利 ]]></name>
+<catcode>L000046</catcode>
+<brdcode>P000002</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000049</code>
+<name><![CDATA[富强粉 5公斤袋装 五得利 ]]></name>
+<catcode>L000046</catcode>
+<brdcode>P000002</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000050</code>
+<name><![CDATA[标准粉 25公斤袋装 五厂 ]]></name>
+<catcode>L000047</catcode>
+<brdcode>P000003</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000051</code>
+<name><![CDATA[标准粉 5公斤袋装 五厂 ]]></name>
+<catcode>L000047</catcode>
+<brdcode>P000003</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000052</code>
+<name><![CDATA[标准粉 25公斤袋装 八厂 ]]></name>
+<catcode>L000047</catcode>
+<brdcode>P000004</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000054</code>
+<name><![CDATA[粳米 25公斤袋装 东北七河源 ]]></name>
+<catcode>L000048</catcode>
+<brdcode>P000005</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000055</code>
+<name><![CDATA[粳米 5公斤袋装 东北七河源 ]]></name>
+<catcode>L000048</catcode>
+<brdcode>P000005</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000056</code>
+<name><![CDATA[粳米 25公斤袋装 东北兴凯湖 ]]></name>
+<catcode>L000048</catcode>
+<brdcode>P000006</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000057</code>
+<name><![CDATA[粳米 5公斤袋装 东北兴凯湖 ]]></name>
+<catcode>L000048</catcode>
+<brdcode>P000006</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000058</code>
+<name><![CDATA[粳米 25公斤袋装 辽宁盘锦 ]]></name>
+<catcode>L000048</catcode>
+<brdcode>P000007</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000059</code>
+<name><![CDATA[粳米 5公斤袋装 辽宁盘锦 ]]></name>
+<catcode>L000048</catcode>
+<brdcode>P000007</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000060</code>
+<name><![CDATA[粳米 25公斤袋装 其他 ]]></name>
+<catcode>L000048</catcode>
+<brdcode>P000008</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000061</code>
+<name><![CDATA[粳米 5公斤袋装 其他 ]]></name>
+<catcode>L000048</catcode>
+<brdcode>P000008</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000062</code>
+<name><![CDATA[小米 散装  ]]></name>
+<catcode>L000049</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000064</code>
+<name><![CDATA[绿豆 散装  ]]></name>
+<catcode>L000051</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000065</code>
+<name><![CDATA[红小豆 散装  ]]></name>
+<catcode>L000052</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000066</code>
+<name><![CDATA[江米 散装  ]]></name>
+<catcode>L000053</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000067</code>
+<name><![CDATA[花生米 散装  ]]></name>
+<catcode>L000054</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000068</code>
+<name><![CDATA[玉米面 散装  ]]></name>
+<catcode>L000055</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000069</code>
+<name><![CDATA[ 散装  ]]></name>
+<catcode>L000056</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000120</code>
+<name><![CDATA[标准粉 散装  ]]></name>
+<catcode>L000047</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000121</code>
+<name><![CDATA[标准粉 5公斤袋装 古船 ]]></name>
+<catcode>L000047</catcode>
+<brdcode>P000001</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000122</code>
+<name><![CDATA[富强粉 散装  ]]></name>
+<catcode>L000046</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001009</code>
+<name><![CDATA[标准粉 25公斤袋装 五得利 ]]></name>
+<catcode>L000047</catcode>
+<brdcode>P000002</brdcode>
+<speccode>G000002</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001010</code>
+<name><![CDATA[标准粉 5公斤袋装 五得利 ]]></name>
+<catcode>L000047</catcode>
+<brdcode>P000002</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001076</code>
+<name><![CDATA[小麦  二等  ]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000405</speccode>
+<areacode>C000049</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001077</code>
+<name><![CDATA[小麦  二等  ]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000405</speccode>
+<areacode>C000050</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001078</code>
+<name><![CDATA[小麦  二等  ]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000405</speccode>
+<areacode>C000051</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001081</code>
+<name><![CDATA[色拉油   ]]></name>
+<catcode>L001045</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode>C000054</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001083</code>
+<name><![CDATA[玉米 二等  ]]></name>
+<catcode>L001046</catcode>
+<brdcode></brdcode>
+<speccode>G000405</speccode>
+<areacode>C000056</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001072</code>
+<name><![CDATA[小麦  三等  国产]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000404</speccode>
+<areacode>C000045</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001071</code>
+<name><![CDATA[小麦  三等  澳大利亚]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000404</speccode>
+<areacode>C000044</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001074</code>
+<name><![CDATA[小麦  三等  ]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000404</speccode>
+<areacode>C000047</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000053</code>
+<name><![CDATA[标准粉 5公斤袋装 八厂 ]]></name>
+<catcode>L000047</catcode>
+<brdcode>P000004</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000063</code>
+<name><![CDATA[黄豆 散装  ]]></name>
+<catcode>L000050</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000123</code>
+<name><![CDATA[富强粉 古船7+1  ]]></name>
+<catcode>L000046</catcode>
+<brdcode></brdcode>
+<speccode>G000026</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000674</code>
+<name><![CDATA[绿豆 中等  ]]></name>
+<catcode>L000051</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001219</code>
+<name><![CDATA[粳米   ]]></name>
+<catcode>L000048</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001223</code>
+<name><![CDATA[小麦  60磅／蒲式耳  ]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000422</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001224</code>
+<name><![CDATA[玉米 56磅／蒲式耳  ]]></name>
+<catcode>L001046</catcode>
+<brdcode></brdcode>
+<speccode>G000423</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001225</code>
+<name><![CDATA[大豆 60磅／蒲式耳  ]]></name>
+<catcode>L001180</catcode>
+<brdcode></brdcode>
+<speccode>G000422</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001230</code>
+<name><![CDATA[小麦  标准硬麦含蛋白脂11.5%  ]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000427</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001234</code>
+<name><![CDATA[大米 含碎5%  ]]></name>
+<catcode>L001191</catcode>
+<brdcode></brdcode>
+<speccode>G000430</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001237</code>
+<name><![CDATA[小麦    ]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001238</code>
+<name><![CDATA[玉米   ]]></name>
+<catcode>L001046</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001239</code>
+<name><![CDATA[大豆   ]]></name>
+<catcode>L001180</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001242</code>
+<name><![CDATA[大米 含碎25%  ]]></name>
+<catcode>L001191</catcode>
+<brdcode></brdcode>
+<speccode>G000435</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001098</code>
+<name><![CDATA[夏粮   ]]></name>
+<catcode>L001073</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001099</code>
+<name><![CDATA[冬小麦   ]]></name>
+<catcode>L001074</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001177</code>
+<name><![CDATA[粳米 一级，散装  ]]></name>
+<catcode>L000048</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001179</code>
+<name><![CDATA[小米 一级，散装  ]]></name>
+<catcode>L000049</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001180</code>
+<name><![CDATA[绿豆 一级，散装  ]]></name>
+<catcode>L000051</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001183</code>
+<name><![CDATA[玉米面 一级，散装  ]]></name>
+<catcode>L000055</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001187</code>
+<name><![CDATA[粳米 5公斤袋装 华藤 ]]></name>
+<catcode>L000048</catcode>
+<brdcode>P000093</brdcode>
+<speccode>G000003</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001178</code>
+<name><![CDATA[红小豆 一级，散装  ]]></name>
+<catcode>L000052</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001181</code>
+<name><![CDATA[花生米 一级，散装  ]]></name>
+<catcode>L000054</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001182</code>
+<name><![CDATA[黄豆 一级，散装  ]]></name>
+<catcode>L000050</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001184</code>
+<name><![CDATA[江米 一级，散装  ]]></name>
+<catcode>L000053</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001216</code>
+<name><![CDATA[面粉   ]]></name>
+<catcode>L001028</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001070</code>
+<name><![CDATA[小麦  三等  迪拜]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000404</speccode>
+<areacode>C000043</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001073</code>
+<name><![CDATA[小麦  二等  进口]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000405</speccode>
+<areacode>C000046</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001075</code>
+<name><![CDATA[小麦  二等  ]]></name>
+<catcode>L001044</catcode>
+<brdcode></brdcode>
+<speccode>G000405</speccode>
+<areacode>C000048</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001079</code>
+<name><![CDATA[色拉油   ]]></name>
+<catcode>L001045</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode>C000052</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001080</code>
+<name><![CDATA[色拉油   ]]></name>
+<catcode>L001045</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode>C000053</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001082</code>
+<name><![CDATA[玉米 二等  ]]></name>
+<catcode>L001046</catcode>
+<brdcode></brdcode>
+<speccode>G000405</speccode>
+<areacode>C000055</areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001262</code>
+<name><![CDATA[精米 5KG/袋 华藤 ]]></name>
+<catcode>L001202</catcode>
+<brdcode>P000093</brdcode>
+<speccode>G000464</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001283</code>
+<name><![CDATA[富强粉 5000G/袋 古船 ]]></name>
+<catcode>L000046</catcode>
+<brdcode>P000001</brdcode>
+<speccode>G000452</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001320</code>
+<name><![CDATA[绿豆   ]]></name>
+<catcode>L000051</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001318</code>
+<name><![CDATA[米   ]]></name>
+<catcode>L001181</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001333</code>
+<name><![CDATA[江米   ]]></name>
+<catcode>L000053</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001335</code>
+<name><![CDATA[红小豆   ]]></name>
+<catcode>L000052</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001373</code>
+<name><![CDATA[黄豆   ]]></name>
+<catcode>L000050</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001264</code>
+<name><![CDATA[大米 普通  ]]></name>
+<catcode>L001191</catcode>
+<brdcode></brdcode>
+<speccode>G000357</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001305</code>
+<name><![CDATA[标准粉 5KG/袋 古船 ]]></name>
+<catcode>L000047</catcode>
+<brdcode>P000001</brdcode>
+<speccode>G000464</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001321</code>
+<name><![CDATA[花生米   ]]></name>
+<catcode>L000054</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001322</code>
+<name><![CDATA[小米   ]]></name>
+<catcode>L000049</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+</items>
+</root>

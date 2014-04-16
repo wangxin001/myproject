@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>14</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>14</cursize>
+</head>
+<items>
+<item>
+<code>E001146</code>
+<name><![CDATA[成母猪   ]]></name>
+<catcode>L001113</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000108</code>
+<name><![CDATA[生猪 本市活猪一级  ]]></name>
+<catcode>L000091</catcode>
+<brdcode></brdcode>
+<speccode>G000018</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000109</code>
+<name><![CDATA[生猪 外埠活猪一级  ]]></name>
+<catcode>L000091</catcode>
+<brdcode></brdcode>
+<speccode>G000019</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000381</code>
+<name><![CDATA[生猪 中等  ]]></name>
+<catcode>L000091</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000830</code>
+<name><![CDATA[生猪   ]]></name>
+<catcode>L000091</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000384</code>
+<name><![CDATA[种猪 中等  ]]></name>
+<catcode>L000274</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001011</code>
+<name><![CDATA[仔猪 中等  ]]></name>
+<catcode>L000275</catcode>
+<brdcode></brdcode>
+<speccode>G000146</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000385</code>
+<name><![CDATA[仔猪 10公斤左右  ]]></name>
+<catcode>L000275</catcode>
+<brdcode></brdcode>
+<speccode>G000147</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001147</code>
+<name><![CDATA[后备母猪   ]]></name>
+<catcode>L001114</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001148</code>
+<name><![CDATA[60日龄商品猪   ]]></name>
+<catcode>L001116</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001149</code>
+<name><![CDATA[60-120日龄商品猪   ]]></name>
+<catcode>L001117</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001150</code>
+<name><![CDATA[120日龄以上商品猪   ]]></name>
+<catcode>L001118</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001151</code>
+<name><![CDATA[肥猪   ]]></name>
+<catcode>L001119</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001162</code>
+<name><![CDATA[种公猪   ]]></name>
+<catcode>L001115</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+</items>
+</root>

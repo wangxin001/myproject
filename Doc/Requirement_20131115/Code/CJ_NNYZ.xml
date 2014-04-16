@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>1</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>1</cursize>
+</head>
+<content>
+<cjbcode>CJ_NNYZ</cjbcode>
+<cjbname>奶牛养殖监测报表</cjbname>
+<items>
+<item>
+<sitecode>U000882</sitecode>
+<sitename>北京绿荷牛业有限责任公司</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

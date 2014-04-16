@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>2</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>2</cursize>
+</head>
+<content>
+<cjbcode>CJ_JRJGQY</cjbcode>
+<cjbname>鸡肉加工企业监测报表</cjbname>
+<items>
+<item>
+<sitecode>U000865</sitecode>
+<sitename>北京大发畜产品公司</sitename>
+<status>1</status>
+</item>
+<item>
+<sitecode>U000866</sitecode>
+<sitename>北京华都肉鸡公司</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

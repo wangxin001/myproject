@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BCPFORMAT xmlns="http://schemas.microsoft.com/sqlserver/2004/bulkload/format" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <RECORD>
+        <FIELD ID="1" xsi:type="CharTerm" TERMINATOR="|" />
+        <FIELD ID="2" xsi:type="CharTerm" TERMINATOR="|" />
+        <FIELD ID="3" xsi:type="CharTerm" TERMINATOR="|" />
+        <FIELD ID="4" xsi:type="CharTerm" TERMINATOR="|" />
+        <FIELD ID="5" xsi:type="CharTerm" TERMINATOR="|" />
+        <FIELD ID="6" xsi:type="CharTerm" TERMINATOR="|" />
+        <FIELD ID="7" xsi:type="CharTerm" TERMINATOR="|" />
+        <FIELD ID="8" xsi:type="CharTerm" TERMINATOR="|" />
+        <FIELD ID="9" xsi:type="CharTerm" TERMINATOR="|" />
+        <FIELD ID="10" xsi:type="CharTerm" TERMINATOR="\r\n" />
+    </RECORD>
+    <ROW>
+        <COLUMN SOURCE="1" NAME="datetime" xsi:type="SQLDATETIME"/>
+        <COLUMN SOURCE="2" NAME="cs-method" xsi:type="SQLNVARCHAR"/>
+        <COLUMN SOURCE="3" NAME="cs-uri-stem" xsi:type="SQLNVARCHAR"/>
+        <COLUMN SOURCE="4" NAME="cs-User-Agent" xsi:type="SQLNVARCHAR"/>
+        <COLUMN SOURCE="5" NAME="cs-host" xsi:type="SQLNVARCHAR"/>
+        <COLUMN SOURCE="6" NAME="sc-status" xsi:type="SQLINT"/>
+        <COLUMN SOURCE="7" NAME="sc-substatus" xsi:type="SQLINT"/>
+        <COLUMN SOURCE="8" NAME="sc-win32-status" xsi:type="SQLINT"/>
+        <COLUMN SOURCE="9" NAME="time-taken" xsi:type="SQLINT"/>
+        <COLUMN SOURCE="10" NAME="logDate" xsi:type="SQLDATETIME"/>
+    </ROW>
+</BCPFORMAT>

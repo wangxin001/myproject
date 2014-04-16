@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>1</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>1</cursize>
+</head>
+<content>
+<cjbcode>CJ_TSNCP_MY1</cjbcode>
+<cjbname>密云区主产特色农产品监测报表</cjbname>
+<items>
+<item>
+<sitecode>U000777</sitecode>
+<sitename>密云辖区</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

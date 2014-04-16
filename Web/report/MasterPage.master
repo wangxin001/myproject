@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="report_MasterPage"  EnableViewState="true" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>北京市价格监测中心</title>
+	<meta name="keywords" content="京价网、价格、价格监测、北京市价格监测中心、北京价格监测、北京价格" />
+	<link href="../css/style.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="../css/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="../css/parity.css" type="text/css" /><!--评价菜店新增css -->
+
+	<script type="text/javascript" src="../javascript/home.js"></script>
+	<script type='text/javascript' src='../javascript/pindex_compress.js'></script>
+	<script type='text/javascript' src='../javascript/tindex_compress.js'></script>
+	<script type='text/javascript' src='../javascript/windex_compress.js'></script>
+	<script type='text/javascript' src='../javascript/foucus.js'></script>
+
+    <script type='text/javascript' src='../common/InputValidCheck.js'></script>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolderHeader" runat="server">
+	</asp:ContentPlaceHolder>
+
+</head>
+<body style="background-color: transparent;">
+    
+	<form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+	<!--header begin-->
+	<script type='text/javascript' src='../javascript/zheader.js'></script>
+	<!--header end-->
+	<div class="clear">
+	</div>
+	<!--middle begin-->
+	<div id="middle">
+        
+
+		<asp:ContentPlaceHolder ID="ContentPlaceHolderContent" runat="server">
+		</asp:ContentPlaceHolder>
+           
+	</div>
+	<!--middle end-->
+	</form>
+	<div class="clear">
+	</div>
+	<!--footer begin-->
+	<script type='text/javascript' src='../javascript/zfooter.js'></script>
+	<!--footer end-->
+</body>
+</html>

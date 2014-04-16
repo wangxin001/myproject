@@ -1,0 +1,23 @@
+﻿input[type=text]
+{
+    border: 1px solid #CBCBCB;
+    font-size: 13px;
+    height: 18px;
+}
+
+.TableInfo
+{
+    background: #CBCBCB;
+    width: 100%;
+}
+
+.TableInfo tr
+{
+    height: 28px;
+}
+
+.TableInfo td
+{
+    background: #FFFFFF;
+    background: white;
+}

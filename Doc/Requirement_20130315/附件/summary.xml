@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>93</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>93</cursize>
+</head>
+<content>
+<pointcode>E000054</pointcode>
+<pointname><![CDATA[粳米 25公斤袋装 东北七河源 ]]></pointname>
+<freqcode>F000007</freqcode>
+<comunitcode>D000070</comunitcode>
+<classtag>L000048</classtag>
+<targetcode>Z000002</targetcode>
+<stagecode>H000004</stagecode>
+<datasource>S000001</datasource>
+<items>
+<item>
+<gettime>2008-12-01 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-01 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-01 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-02 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-02 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-02 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-03 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-03 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-03 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-04 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-04 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-04 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-05 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-05 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-05 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-06 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-06 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-06 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-07 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-07 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-07 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-08 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-08 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-08 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-09 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-09 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-09 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-10 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-10 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-10 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-11 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-11 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-11 00:00:00.0</gettime>
+<pointvalue>85</pointvalue>
+</item>
+<item>
+<gettime>2008-12-12 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-12 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-12 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-13 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-13 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-13 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-14 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-14 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-14 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-15 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-15 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-15 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-16 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-16 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-16 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-17 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-17 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-17 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-18 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-18 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-18 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-19 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-19 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-19 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-20 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-20 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-20 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-21 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-21 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-21 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-22 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-22 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-22 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-23 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-23 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-23 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-24 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-24 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-24 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-25 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-25 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-25 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-26 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-26 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-26 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-27 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-27 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-27 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-28 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-28 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-28 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-29 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-29 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-29 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-30 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-30 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-30 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-31 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-31 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+<item>
+<gettime>2008-12-31 00:00:00.0</gettime>
+<pointvalue>82</pointvalue>
+</item>
+</items>
+</content>
+</root>

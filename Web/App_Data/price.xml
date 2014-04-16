@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+    <submenu name="百姓生活">
+        <line>
+            <menu type="topic" id="60">电价</menu>
+            <menu type="topic" id="61">成品油价格</menu>
+            <menu type="topic" id="62">燃气价格</menu>
+            <menu type="topic" id="63">供热价格</menu>
+        </line>
+        <line>
+            <menu type="topic" id="64">水价</menu>
+            <menu type="board" id="18" column="1">公园门票价格</menu>
+            <menu type="topic" id="65">食盐价格</menu>
+        </line>
+    </submenu>
+    <submenu name="交通运输">
+        <line>
+            <menu type="board" id="19" column="2">公交、地铁、城铁、铁路</menu>
+        </line>
+        <line>
+            <menu type="board" id="20" column="2">高速公路（含六环路）费</menu>
+        </line>
+    </submenu>
+
+    <submenu name="服务收费">
+        <line>
+            <menu type="board" id="21" column="1">电信资费</menu>
+            <menu type="board" id="22" column="1">有线电视资费</menu>
+            <menu type="board" id="23" column="2">教育收费</menu>
+        </line>
+        <line>
+            <menu type="board" id="24" column="2">经营性和中介服务收费</menu>
+            <menu type="board" id="26" column="1">物业管理收费</menu>
+        </line>
+        <line>
+            <menu type="board" id="25" column="2">机动车停车、检测收费</menu>
+            <menu type="board" id="27" column="2">殡葬服务福利院收费</menu>
+        </line>
+        <line>
+            <menu type="board" id="28" column="2">环卫及医疗废物处理</menu>
+            <menu type="board" id="29" column="1">民用爆破器材价格</menu>
+        </line>
+        <line>
+            <menu type="board" id="30" column="1">计量检定收费</menu>
+        </line>
+    </submenu>
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>2</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>2</cursize>
+</head>
+<items>
+<item>
+<code>T000001</code>
+<name><![CDATA[网上直报]]></name>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>T000002</code>
+<name><![CDATA[PDA采集]]></name>
+<ifactive>1</ifactive>
+</item>
+</items>
+</root>

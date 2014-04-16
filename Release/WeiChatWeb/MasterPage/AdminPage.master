@@ -1,0 +1,39 @@
+﻿<%@ master language="C#" autoeventwireup="true" inherits="MasterPage_AdminPage, WeiChatWeb" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>微信平台价格管理</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" class="form">
+        <table cellpadding="8" cellspacing="8" style="width: 100%; height: 100%; background-color: #E0E0E0;">
+            <tr>
+                <td colspan="2" class="layout_top">欢迎：<asp:Label ID="labUserName" runat="server" Text=""></asp:Label>
+                    <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click">退出</asp:LinkButton>
+                </td>
+            </tr>
+            <tr>
+                <td class="layout_menu" style="background-color: #fff;">
+                    <asp:TreeView ID="TreeView1" runat="server" CssClass="layout_tree"
+                        NodeIndent="15" SelectedNodeStyle-ForeColor="#FFFF66"
+                        SelectedNodeStyle-BackColor="#003366"
+                        OnTreeNodeCollapsed="TreeView1_TreeNodeCollapsed"
+                        OnTreeNodeExpanded="TreeView1_TreeNodeExpanded">
+                        <HoverNodeStyle Font-Underline="True" />
+                        <NodeStyle Font-Size="10pt" ForeColor="Black" HorizontalPadding="2px" NodeSpacing="0px"
+                            VerticalPadding="4px" />
+                        <SelectedNodeStyle BackColor="#003366" ForeColor="White"></SelectedNodeStyle>
+                    </asp:TreeView>
+                </td>
+                <td class="layout_content">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

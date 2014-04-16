@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>1</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>1</cursize>
+</head>
+<content>
+<cjbcode>LG_JZGC</cjbcode>
+<cjbname>北京市钢材市场社会库存监测报表</cjbname>
+<items>
+<item>
+<sitecode>U001009</sitecode>
+<sitename>兰格钢铁网站</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

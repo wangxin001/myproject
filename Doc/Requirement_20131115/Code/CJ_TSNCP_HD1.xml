@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>1</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>1</cursize>
+</head>
+<content>
+<cjbcode>CJ_TSNCP_HD1</cjbcode>
+<cjbname>海淀区主产特色农产品监测报表</cjbname>
+<items>
+<item>
+<sitecode>U000283</sitecode>
+<sitename>海淀辖区</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

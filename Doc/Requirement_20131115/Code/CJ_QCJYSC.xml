@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>2</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>2</cursize>
+</head>
+<content>
+<cjbcode>CJ_QCJYSC</cjbcode>
+<cjbname>汽车交易市场监测报表</cjbname>
+<items>
+<item>
+<sitecode>U000864</sitecode>
+<sitename>北方汽车交易市场</sitename>
+<status>1</status>
+</item>
+<item>
+<sitecode>U000892</sitecode>
+<sitename>亚运村汽车交易市场
+</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

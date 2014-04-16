@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>3</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>3</cursize>
+</head>
+<items>
+<item>
+<code>R000001</code>
+<name><![CDATA[代报点]]></name>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>R000002</code>
+<name><![CDATA[直报点]]></name>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>R000003</code>
+<name><![CDATA[报告单位]]></name>
+<ifactive>1</ifactive>
+</item>
+</items>
+</root>

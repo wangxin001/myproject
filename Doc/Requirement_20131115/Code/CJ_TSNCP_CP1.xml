@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>1</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>1</cursize>
+</head>
+<content>
+<cjbcode>CJ_TSNCP_CP1</cjbcode>
+<cjbname>昌平区主产特色农产品监测报表</cjbname>
+<items>
+<item>
+<sitecode>U000540</sitecode>
+<sitename>昌平辖区</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

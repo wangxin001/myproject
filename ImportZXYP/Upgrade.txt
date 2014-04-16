@@ -1,0 +1,4 @@
+﻿ALTER TABLE dbo.Dict_Category ADD Exclude int NULL
+ALTER TABLE dbo.Data_ItemAttributeValue ALTER column [AttributeValue] NVARCHAR(500)
+
+-- 修改Attribute为自增

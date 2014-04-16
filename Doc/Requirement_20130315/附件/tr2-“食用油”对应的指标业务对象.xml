@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>36</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>36</cursize>
+</head>
+<items>
+<item>
+<code>E000071</code>
+<name><![CDATA[花生油 桶装 鲁花 ]]></name>
+<catcode>L000058</catcode>
+<brdcode>P000009</brdcode>
+<speccode>G000005</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000072</code>
+<name><![CDATA[花生油 桶装 古船 ]]></name>
+<catcode>L000058</catcode>
+<brdcode>P000001</brdcode>
+<speccode>G000005</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000073</code>
+<name><![CDATA[调和油 桶装 金龙鱼 ]]></name>
+<catcode>L000059</catcode>
+<brdcode>P000010</brdcode>
+<speccode>G000005</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000074</code>
+<name><![CDATA[调和油 桶装 火鸟 ]]></name>
+<catcode>L000059</catcode>
+<brdcode>P000011</brdcode>
+<speccode>G000005</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000075</code>
+<name><![CDATA[调和油 桶装 绿宝 ]]></name>
+<catcode>L000059</catcode>
+<brdcode>P000012</brdcode>
+<speccode>G000005</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000076</code>
+<name><![CDATA[调和油 桶装 福临门 ]]></name>
+<catcode>L000059</catcode>
+<brdcode>P000013</brdcode>
+<speccode>G000005</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000077</code>
+<name><![CDATA[调和油 桶装 鲁花 ]]></name>
+<catcode>L000059</catcode>
+<brdcode>P000009</brdcode>
+<speccode>G000005</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000078</code>
+<name><![CDATA[调和油 散装  ]]></name>
+<catcode>L000059</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000080</code>
+<name><![CDATA[大豆油 散装  ]]></name>
+<catcode>L000066</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000081</code>
+<name><![CDATA[香油 散装  ]]></name>
+<catcode>L000067</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000137</code>
+<name><![CDATA[菜籽油 桶装  ]]></name>
+<catcode>L000065</catcode>
+<brdcode></brdcode>
+<speccode>G000005</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000138</code>
+<name><![CDATA[香油 瓶装 古币 ]]></name>
+<catcode>L000067</catcode>
+<brdcode>P000016</brdcode>
+<speccode>G000029</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000187</code>
+<name><![CDATA[大豆油 桶装 金龙鱼 ]]></name>
+<catcode>L000066</catcode>
+<brdcode>P000010</brdcode>
+<speccode>G000005</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001003</code>
+<name><![CDATA[食用油类   ]]></name>
+<catcode>L001003</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E000079</code>
+<name><![CDATA[菜籽油 散装  ]]></name>
+<catcode>L000065</catcode>
+<brdcode></brdcode>
+<speccode>G000004</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001226</code>
+<name><![CDATA[大豆油   ]]></name>
+<catcode>L000066</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001231</code>
+<name><![CDATA[棕榈油 粗制  ]]></name>
+<catcode>L001182</catcode>
+<brdcode></brdcode>
+<speccode>G000428</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001232</code>
+<name><![CDATA[棕榈油 马来西亚／苏门答腊粗制  ]]></name>
+<catcode>L001182</catcode>
+<brdcode></brdcode>
+<speccode>G000429</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001233</code>
+<name><![CDATA[大豆油 粗制  ]]></name>
+<catcode>L000066</catcode>
+<brdcode></brdcode>
+<speccode>G000428</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001235</code>
+<name><![CDATA[菜籽油 荷兰／欧盟产  ]]></name>
+<catcode>L000065</catcode>
+<brdcode></brdcode>
+<speccode>G000431</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001243</code>
+<name><![CDATA[菜籽油   ]]></name>
+<catcode>L000065</catcode>
+<brdcode></brdcode>
+<speccode></speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001195</code>
+<name><![CDATA[调和油 一级，散装  ]]></name>
+<catcode>L000059</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001193</code>
+<name><![CDATA[菜籽油 一级，散装  ]]></name>
+<catcode>L000065</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001194</code>
+<name><![CDATA[大豆油 一级，散装  ]]></name>
+<catcode>L000066</catcode>
+<brdcode></brdcode>
+<speccode>G000411</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001196</code>
+<name><![CDATA[花生油 一级，桶装 鲁花 ]]></name>
+<catcode>L000058</catcode>
+<brdcode>P000009</brdcode>
+<speccode>G000410</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001197</code>
+<name><![CDATA[花生油 一级，桶装 古船 ]]></name>
+<catcode>L000058</catcode>
+<brdcode>P000001</brdcode>
+<speccode>G000410</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001198</code>
+<name><![CDATA[大豆油 一级，桶装 鲁花 ]]></name>
+<catcode>L000066</catcode>
+<brdcode>P000009</brdcode>
+<speccode>G000410</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001176</code>
+<name><![CDATA[大豆油 一级，桶装 绿宝 ]]></name>
+<catcode>L000066</catcode>
+<brdcode>P000012</brdcode>
+<speccode>G000410</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001201</code>
+<name><![CDATA[大豆油 一级，桶装 福临门 ]]></name>
+<catcode>L000066</catcode>
+<brdcode>P000013</brdcode>
+<speccode>G000410</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001199</code>
+<name><![CDATA[大豆油 一级，桶装 金龙鱼 ]]></name>
+<catcode>L000066</catcode>
+<brdcode>P000010</brdcode>
+<speccode>G000410</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001200</code>
+<name><![CDATA[大豆油 一级，桶装 火鸟 ]]></name>
+<catcode>L000066</catcode>
+<brdcode>P000011</brdcode>
+<speccode>G000410</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001291</code>
+<name><![CDATA[大豆油 5L/桶 火鸟 ]]></name>
+<catcode>L000066</catcode>
+<brdcode>P000011</brdcode>
+<speccode>G000457</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001304</code>
+<name><![CDATA[大豆油 5000ml 金龙鱼 ]]></name>
+<catcode>L000066</catcode>
+<brdcode>P000010</brdcode>
+<speccode>G000463</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001266</code>
+<name><![CDATA[花生油 5L压榨一级 鲁花 ]]></name>
+<catcode>L000058</catcode>
+<brdcode>P000009</brdcode>
+<speccode>G000443</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001311</code>
+<name><![CDATA[香油 450ml 古币 ]]></name>
+<catcode>L000067</catcode>
+<brdcode>P000016</brdcode>
+<speccode>G000178</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+<item>
+<code>E001316</code>
+<name><![CDATA[大豆油 5L/桶 福临门 ]]></name>
+<catcode>L000066</catcode>
+<brdcode>P000013</brdcode>
+<speccode>G000457</speccode>
+<areacode></areacode>
+<ifactive>1</ifactive>
+</item>
+</items>
+</root>

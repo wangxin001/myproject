@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Actions>
+    <Action name="hello" class="Hello" />
+    
+    <Action name="GetStoreInfo" class="OnGetStoreInfo" />
+
+    <Action name="GetStorePrice" class="OnGetStorePrice" />
+
+    <Action name="GetStoreAvgPrice" class="OnGetStoreAvgPrice" />
+    
+    <!--<Action name="GetKeyValue" class="OnGetKeyValue" />
+    
+    <Action name="UpdateKeyValue" class="OnUpdateKeyValue" />
+
+    <Action name="UpdateTreeValue" class="OnUpdateTreeValue" />
+
+    <Action name="UpdatePrice" class="OnUpdateItemPrice" />-->
+
+</Actions>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<ret>000</ret>
+<head>
+<total>1</total>
+<totalpage>1</totalpage>
+<page>1</page>
+<cursize>1</cursize>
+</head>
+<content>
+<cjbcode>CJ_TSNCP_SY1</cjbcode>
+<cjbname>顺义区主产特色农产品监测报表</cjbname>
+<items>
+<item>
+<sitecode>U000490</sitecode>
+<sitename>顺义辖区</sitename>
+<status>1</status>
+</item>
+</items>
+</content>
+</root>

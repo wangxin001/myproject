@@ -1,0 +1,16 @@
+/*BY sun (http://www.hongru.com) on 12 20, 2010 */
+@font-face {
+	font-family: 'FontCreatorProgramRegular';
+	src: url('../wryh-webfont.eot');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FontCreatorProgramRegular';
+	src: url(//:) format('no404'), url('../wryh-webfont.woff') format('woff'), url('../wryh-webfont.ttf') format('truetype'), url('../wryh-webfont.svg#webfont7gqmMaCf') format('svg');
+/*   src: url(//:) format('no404'), url('wryh-webfont.woff') format('woff'), url('wryh-webfont.ttf') format('truetype'), url('wryh-webfont.svg#webfont7gqmMaCf') format('svg');*/
+	font-weight: normal;
+	font-style: normal;
+}
+
